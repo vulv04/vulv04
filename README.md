@@ -14,7 +14,7 @@
 - 🔭 I'm currently building **ShopVx - A fullstack eCommerce platform**
 - 🌱 I'm currently learning **DevOps, CI/CD, and scalable backend systems**
 - 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Mongoose`, `JWT`, `REST API`
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **vulv04.it@gmail.com**
 - ⚡ Fun fact: I love clean UI, animations, and solving real-world problems
 
 ---
